@@ -8,9 +8,11 @@ Existem duas variações para Picaria. A primeira versão é mais simples com 9 
 O jogo foi construido usando com o tema: Olimpiada Tokio 2021
 
 Plataforma de desenvolvimento: Qt Creator 4.15.2<br>
-Compilador: Qt 6.1.2 (MinGW 8.1.0 64-bit)
+Compilador: Qt 6.1.2 (MinGW 8.1.0 64-bit)<br>
+Gerador do Installer: Inno Setup
 
 Sobre a plataforma: [QT](https://www.qt.io/download)
+Sobre o Installer: [Inno](https://jrsoftware.org/isinfo.php)
 
 <h3>Arquivos</h3><br>
 
