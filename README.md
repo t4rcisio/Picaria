@@ -16,10 +16,10 @@ O jogo foi construido usando com o tema: Olimpiada Tokio 2021
 
 <h1>Screenshots<h1>
 
-![image](https://user-images.githubusercontent.com/4069780/128805068-377e42ea-4f45-404b-b50d-f5342f7a2e84.png)
-![image](https://user-images.githubusercontent.com/4069780/128805487-da33d485-a8fb-4cd1-ad19-c1c8fc6b120f.png)
-![image](https://user-images.githubusercontent.com/4069780/128805553-54c465c7-4aec-4283-ae12-9556992b1a87.png)
-![image](https://user-images.githubusercontent.com/4069780/128805616-4930f2d5-5845-4bf3-acbd-1015a2045255.png)
+![image](https://user-images.githubusercontent.com/4069780/128805068-377e42ea-4f45-404b-b50d-f5342f7a2e84.png)<br>
+![image](https://user-images.githubusercontent.com/4069780/128805487-da33d485-a8fb-4cd1-ad19-c1c8fc6b120f.png)<br>
+![image](https://user-images.githubusercontent.com/4069780/128805553-54c465c7-4aec-4283-ae12-9556992b1a87.png)<br>
+![image](https://user-images.githubusercontent.com/4069780/128805616-4930f2d5-5845-4bf3-acbd-1015a2045255.png)<br>
 
 
 
