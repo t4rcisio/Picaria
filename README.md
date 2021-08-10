@@ -6,7 +6,7 @@ Picaria é um dois jogadores jogo de estratégia abstrato de Zuni Índios americ
 Existem duas variações para Picaria. A primeira versão é mais simples com 9 espaços ou pontos de intersecção, e a segunda versão usa 13 espaços ou pontos de intersecção. As regras são as mesmas. - [Wikipedia](https://en.wikipedia.org/wiki/Picaria)
 
 <h3>Arquivos</h3>
-[/Picaria](https://github.com/t4rcisio/Picaria/tree/main/Picaria) - Código fonte do jogo<br>
+["/Picaria"](https://github.com/t4rcisio/Picaria/tree/main/Picaria) - Código fonte do jogo<br>
 [/Win_installer](https://github.com/t4rcisio/Picaria/tree/main/Win_installer) - Instalador do jogo para Windows<br>
 [/installer](https://github.com/t4rcisio/Picaria/tree/main/installer) - Arquivos raíz do jogo <br>
 
