@@ -5,6 +5,8 @@ Picaria é um dois jogadores jogo de estratégia abstrato de Zuni Índios americ
 
 Existem duas variações para Picaria. A primeira versão é mais simples com 9 espaços ou pontos de intersecção, e a segunda versão usa 13 espaços ou pontos de intersecção. As regras são as mesmas. - [Wikipedia](https://en.wikipedia.org/wiki/Picaria)
 
+O jogo foi construido usando com o tema: Olimpiada Tokio 2021
+
 <h3>Arquivos</h3><br>
 
 
@@ -12,8 +14,17 @@ Existem duas variações para Picaria. A primeira versão é mais simples com 9 
  [Win_installer](https://github.com/t4rcisio/Picaria/tree/main/Win_installer) - Instalador do jogo para Windows<br>
  [installer](https://github.com/t4rcisio/Picaria/tree/main/installer) - Arquivos raíz do jogo <br>
 
+<h1>Screenshots<h1>
 
 ![image](https://user-images.githubusercontent.com/4069780/128805068-377e42ea-4f45-404b-b50d-f5342f7a2e84.png)
+![image](https://user-images.githubusercontent.com/4069780/128805487-da33d485-a8fb-4cd1-ad19-c1c8fc6b120f.png)
+![image](https://user-images.githubusercontent.com/4069780/128805553-54c465c7-4aec-4283-ae12-9556992b1a87.png)
+![image](https://user-images.githubusercontent.com/4069780/128805616-4930f2d5-5845-4bf3-acbd-1015a2045255.png)
+
+
+
+
+
 
 
 
