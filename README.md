@@ -6,7 +6,8 @@ Picaria é um dois jogadores jogo de estratégia abstrato de Zuni Índios americ
 Existem duas variações para Picaria. A primeira versão é mais simples com 9 espaços ou pontos de intersecção, e a segunda versão usa 13 espaços ou pontos de intersecção. As regras são as mesmas. - [Wikipedia](https://en.wikipedia.org/wiki/Picaria)
 
 O jogo foi construido usando com o tema: Olimpiada Tokio 2021
-Plataforma de desenvolvimento: Qt Creator 4.15.2
+
+Plataforma de desenvolvimento: Qt Creator 4.15.2<br>
 Compilador: Qt 6.1.2 (MinGW 8.1.0 64-bit)
 
 <h3>Arquivos</h3><br>
