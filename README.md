@@ -10,6 +10,8 @@ O jogo foi construido usando com o tema: Olimpiada Tokio 2021
 Plataforma de desenvolvimento: Qt Creator 4.15.2<br>
 Compilador: Qt 6.1.2 (MinGW 8.1.0 64-bit)
 
+Sobre a plataforma: [QT](https://www.qt.io/download)
+
 <h3>Arquivos</h3><br>
 
 
