@@ -1,5 +1,5 @@
 # Picaria
-Picaria game - QT
+Picaria game 
 
 Picaria é um dois jogadores jogo de estratégia abstrato de Zuni Índios americanos nativos ou o Índios pueblo do Sudoeste americano.[1] Está relacionado com jogo da velha, mas mais relacionado a três morris masculinos, Nove buracos, Achi, Tant Fante Shisima, porque as peças podem ser movidas para criar três em uma linha. Picaria é um jogo de alinhamento.
 
