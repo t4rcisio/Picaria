@@ -27,6 +27,8 @@ Sobre o Installer: [Inno](https://jrsoftware.org/isinfo.php)
 ![image](https://user-images.githubusercontent.com/4069780/128805487-da33d485-a8fb-4cd1-ad19-c1c8fc6b120f.png)<br>
 ![image](https://user-images.githubusercontent.com/4069780/128805553-54c465c7-4aec-4283-ae12-9556992b1a87.png)<br>
 ![image](https://user-images.githubusercontent.com/4069780/128805616-4930f2d5-5845-4bf3-acbd-1015a2045255.png)<br>
+![image](https://user-images.githubusercontent.com/4069780/128806520-90c03894-80cd-49c3-9aff-4eb5305b5de8.png)
+
 
 
 
