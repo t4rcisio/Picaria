@@ -20,6 +20,8 @@ Sobre o Installer: [Inno](https://jrsoftware.org/isinfo.php)
  [Picaria](https://github.com/t4rcisio/Picaria/tree/main/Picaria) - Código fonte do jogo<br>
  [Win_installer](https://github.com/t4rcisio/Picaria/tree/main/Win_installer) - Instalador do jogo para Windows<br>
  [installer](https://github.com/t4rcisio/Picaria/tree/main/installer) - Arquivos raíz do jogo <br>
+ 
+
 
 <h1>Screenshots<h1>
 
@@ -28,6 +30,9 @@ Sobre o Installer: [Inno](https://jrsoftware.org/isinfo.php)
 ![image](https://user-images.githubusercontent.com/4069780/128805553-54c465c7-4aec-4283-ae12-9556992b1a87.png)<br>
 ![image](https://user-images.githubusercontent.com/4069780/128806520-90c03894-80cd-49c3-9aff-4eb5305b5de8.png)<br>
 ![image](https://user-images.githubusercontent.com/4069780/128805616-4930f2d5-5845-4bf3-acbd-1015a2045255.png)<br>
+ 
+ 
+Disclaimer: Jogo não oficial
 
 
 
