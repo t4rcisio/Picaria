@@ -17,10 +17,8 @@ Sobre o Installer: [Inno](https://jrsoftware.org/isinfo.php)
 <h3>Arquivos</h3><br>
 
 
- [Picaria](https://github.com/t4rcisio/Picaria/tree/main/Picaria) - Código fonte do jogo<br>
- [Win_installer](https://github.com/t4rcisio/Picaria/tree/main/Win_installer) - Instalador do jogo para Windows<br>
- [installer](https://github.com/t4rcisio/Picaria/tree/main/installer) - Arquivos raíz do jogo <br>
- 
+ [Picaria](https://github.com/t4rcisio/Picaria/tree/main/Picaria_source_code) - Código fonte do jogo<br>
+ [Win_installer](https://github.com/t4rcisio/Picaria/tree/main/Windows_installer) - Instalador do jogo para Windows<br>
 
 
 <h1>Screenshots<h1>
